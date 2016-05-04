@@ -1,0 +1,2 @@
+
+DIAMOND_TYPE_COUNT = 7;--钻石种类数量
