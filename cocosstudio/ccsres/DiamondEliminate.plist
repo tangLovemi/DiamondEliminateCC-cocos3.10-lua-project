@@ -1,0 +1,148 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+	<dict>
+		<key>frames</key>
+		<dict>
+			<key>DiamondEliminate/bonus.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{0,938},{55,30}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{55,30}</string>
+			</dict>
+			<key>DiamondEliminate/bonusbar.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{0,320},{310,14}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{310,14}</string>
+			</dict>
+			<key>DiamondEliminate/bonusbar_fill.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{0,630},{308,10}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{308,10}</string>
+			</dict>
+			<key>DiamondEliminate/jewel1.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{10,667},{36,36}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{40,40}</string>
+			</dict>
+			<key>DiamondEliminate/jewel2.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{10,703},{38,34}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{40,40}</string>
+			</dict>
+			<key>DiamondEliminate/jewel3.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{10,813},{33,36}}</string>
+				<key>offset</key>
+				<string>{-1,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{40,40}</string>
+			</dict>
+			<key>DiamondEliminate/jewel4.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{10,849},{34,34}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{40,40}</string>
+			</dict>
+			<key>DiamondEliminate/jewel5.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{10,741},{37,34}}</string>
+				<key>offset</key>
+				<string>{-1,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{40,40}</string>
+			</dict>
+			<key>DiamondEliminate/jewel6.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{10,778},{35,34}}</string>
+				<key>offset</key>
+				<string>{-1,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{40,40}</string>
+			</dict>
+			<key>DiamondEliminate/jewel7.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{10,630},{37,36}}</string>
+				<key>offset</key>
+				<string>{-1,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{40,40}</string>
+			</dict>
+			<key>DiamondEliminate/board.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{0,0},{320,320}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{320,320}</string>
+			</dict>
+		</dict>
+		<key>metadata</key>
+		<dict>
+			<key>format</key>
+			<integer>2</integer>
+			<key>textureFileName</key>
+			<string>DiamondEliminate.png</string>
+			<key>realTextureFileName</key>
+			<string>DiamondEliminate.png</string>
+			<key>size</key>
+			<string>{320,993}</string>
+		</dict>
+		<key>texture</key>
+		<dict>
+			<key>width</key>
+			<integer>320</integer>
+			<key>height</key>
+			<integer>993</integer>
+		</dict>
+	</dict>
+</plist>
